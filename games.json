@@ -1,0 +1,36 @@
+{
+  "Dying Light: Enhanced Edition": {
+    "category": "Экшен / Выживание",
+    "b64_file": "dying_light_code.txt",
+    "cover_image": "covers/dying_light.jpg",
+    "exe_path": "C:\\Games\\Dying Light\\DyingLight.exe",
+    "hotkeys": [
+      "Numpad 1: Бесконечное Здоровье",
+      "Numpad 2: Бесконечная Выносливость",
+      "Numpad 3: Бесконечная Прочность Оружия",
+      "Numpad 4: Патроны / Без Перезарядки",
+    ]
+  },
+  "Metro Exodus": {
+    "category": "Шутер / Сюжет",
+    "b64_file": "metro_exodus_code.txt",
+    "cover_image": "covers/metro_exodus.jpg",
+    "exe_path": "",
+    "hotkeys": [
+      "Numpad 1: Бесконечные ХП",
+      "Numpad 2: Без Перезарядки",
+      "Numpad 3: Чистые Фильтры Противогаза"
+    ]
+  },
+  "Far Cry 6": {
+    "category": "Открытый мир / Шутер",
+    "b64_file": "far_cry_6_code.txt",
+    "cover_image": "covers/far_cry_6.jpg",
+    "exe_path": "",
+    "hotkeys": [
+      "Numpad 1: Бессмертие",
+      "Numpad 2: Бесконечные Патроны / Гранаты",
+      "Numpad 3: Мгновенная Зарядка Супресо"
+    ]
+  }
+}
