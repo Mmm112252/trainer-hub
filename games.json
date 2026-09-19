@@ -24,13 +24,14 @@
   },
   "Far Cry 6": {
     "category": "Открытый мир / Шутер",
+    "appid": "2369390",
     "b64_file": "far_cry_6_code.txt",
     "cover_image": "covers/far_cry_6.jpg",
     "exe_path": "",
     "hotkeys": [
       "Numpad 1: Бессмертие",
       "Numpad 2: Бесконечные Патроны / Гранаты",
-      "Numpad 3: Мгновенная Зарядка Супресо"
+      "Numpad 3: Мгновенная Зарядка Супрено"
     ]
   }
 }
