@@ -4,7 +4,7 @@
     "steam_id": "239140",
     "b64_file": "dying_light_code.txt",
     "cover_image": "covers/dying_light.jpg",
-    "exe_path": "C:\\Games\\Dying Light\\DyingLight.exe",
+    "exe_path": "",
     "hotkeys": [
       "Numpad 1: Бесконечное Здоровье",
       "Numpad 2: Бесконечная Выносливость",
@@ -14,7 +14,7 @@
   },
   "Metro Exodus Enhanced Edition": {
     "category": "Шутер / Сюжет",
-    "steam_id": "412020",
+    "steam_id": "1449560",
     "b64_file": "metro_exodus_code.txt",
     "cover_image": "covers/metro_exodus.jpg",
     "exe_path": "",
