@@ -1,6 +1,7 @@
 {
   "Dying Light: Enhanced Edition": {
     "category": "Экшен / Выживание",
+    "steam_id": "238010",
     "b64_file": "dying_light_code.txt",
     "cover_image": "covers/dying_light.jpg",
     "exe_path": "C:\\Games\\Dying Light\\DyingLight.exe",
@@ -13,6 +14,7 @@
   },
   "Metro Exodus": {
     "category": "Шутер / Сюжет",
+    "steam_id": "412020",
     "b64_file": "metro_exodus_code.txt",
     "cover_image": "covers/metro_exodus.jpg",
     "exe_path": "",
@@ -32,6 +34,66 @@
       "Numpad 1: Бессмертие",
       "Numpad 2: Бесконечные Патроны / Гранаты",
       "Numpad 3: Мгновенная Зарядка Супрено"
+    ]
+  },
+  "Grand Theft Auto V (Enhanced)": {
+    "category": "Открытый мир / Экшен",
+    "steam_id": "3240220",
+    "b64_file": "gta5_enhanced_code.txt",
+    "cover_image": "covers/gta5e.jpg",
+    "exe_path": "",
+    "hotkeys": [
+      "Numpad 1: Бессмертие",
+      "Numpad 2: Бесконечные Патроны",
+      "Numpad 3: Без Перезарядки"
+    ]
+  },
+  "Grand Theft Auto V": {
+    "category": "Открытый мир / Экшен",
+    "steam_id": "271590",
+    "b64_file": "gta5_code.txt",
+    "cover_image": "covers/gta5.jpg",
+    "exe_path": "",
+    "hotkeys": [
+      "Numpad 1: Бессмертие",
+      "Numpad 2: Бесконечные Патроны",
+      "Numpad 3: Добавить Деньги"
+    ]
+  },
+  "Watch Dogs 2": {
+    "category": "Открытый мир / Экшен",
+    "steam_id": "447040",
+    "b64_file": "watch_dogs_2_code.txt",
+    "cover_image": "covers/watch_dogs_2.jpg",
+    "exe_path": "",
+    "hotkeys": [
+      "Numpad 1: Бессмертие",
+      "Numpad 2: Бесконечные Деньги",
+      "Numpad 3: Невидимость"
+    ]
+  },
+  "Sons Of The Forest": {
+    "category": "Выживание / Ужасы",
+    "steam_id": "1326470",
+    "b64_file": "sons_of_the_forest_code.txt",
+    "cover_image": "covers/sons_of_the_forest.jpg",
+    "exe_path": "",
+    "hotkeys": [
+      "Numpad 1: Бессмертие",
+      "Numpad 2: Бесконечная Энергия",
+      "Numpad 3: Без Жажды / Голода"
+    ]
+  },
+  "Far Cry 3": {
+    "category": "Открытый мир / Шутер",
+    "steam_id": "220240",
+    "b64_file": "far_cry_3_code.txt",
+    "cover_image": "covers/far_cry_3.jpg",
+    "exe_path": "",
+    "hotkeys": [
+      "Numpad 1: Бессмертие",
+      "Numpad 2: Бесконечные Патроны",
+      "Numpad 3: Без Перезарядки"
     ]
   }
 }
